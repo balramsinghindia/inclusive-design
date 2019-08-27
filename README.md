@@ -6,9 +6,7 @@ The impact of inclusive design is more than just the products that people use. I
 
 In this talk I will explain how Inclusive Design can help in increased access, reduced friction and more emotional context of product to end user. 
 
-In Australia, over 70% of people have some level of difficulty or frustration in using digital products and services. Inclusive design is understanding them and delivering best solution to everyone w
-
-Inclusive Design is providing best in class user experience to 
+In Australia, over 70% of people have some level of difficulty or frustration in using digital products and services. Inclusive design is understanding them and delivering them best in class user experience.
 
 
 ## Agenda of talk
